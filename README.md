@@ -15,7 +15,6 @@ Introducing the extraordinary "Doctor Appointment System" - a state-of-the-art F
 
 ## Screenshots
 
-<img src="./ui.png">
 
 ## Getting Started
 
